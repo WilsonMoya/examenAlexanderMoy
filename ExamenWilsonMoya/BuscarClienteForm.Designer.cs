@@ -1,4 +1,4 @@
-﻿namespace ExamenWilsonMoya
+amespacenHellenAndino
 {
     partial class BuscarClienteForm
     {
